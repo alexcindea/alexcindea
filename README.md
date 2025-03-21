@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexcindea, student at UTCN
+- 👋 Hi, I’m @alexcindea, lincensed engineer in CompSci, currently a Full Stack Web Dev building LLM based products.
 - 👀 I’m interested in various topics, ranging from Image Processing and ML, to Web Development.
 - 📫 reach me at alexcindea@gmail.com
 
